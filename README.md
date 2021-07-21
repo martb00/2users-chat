@@ -1,5 +1,5 @@
 # 2users-chat
-|linux| <br/>
+##### linux   
 Simple chat between 2 users (based on a fifo). <br/>
 Comments in Polish in chat1.c for my use and better understanding
 
